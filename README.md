@@ -1,4 +1,4 @@
-# gulp-cod [![Build Status](https://drone.io/github.com/namuol/gulp-cod/status.png)](https://drone.io/github.com/namuol/gulp-cod/latest) [![Module Version](http://img.shields.io/npm/v/gulp-cod.svg?style=flat)](https://www.npmjs.org/package/gulp-cod)
+# gulp-cod [![Build Status](https://drone.io/github.com/namuol/gulp-cod/status.png)](https://drone.io/github.com/namuol/gulp-cod/latest) [![Module Version](http://img.shields.io/npm/v/gulp-cod.svg?style=flat)](https://www.npmjs.org/package/gulp-cod) [![Dependency Status](http://img.shields.io/david/namuol/gulp-cod.svg?style=flat)](https://david-dm.org/namuol/gulp-cod)
 
 [gulp](https://github.com/gulpjs/gulp) plugin for [cod](http://github.com/namuol/cod)
 
