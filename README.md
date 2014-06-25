@@ -2,7 +2,7 @@
 
 [gulp](https://github.com/gulpjs/gulp) plugin for [cod](http://github.com/namuol/cod)
 
-## Usage
+## usage
 
 ```js
 var gulp = require('gulp'),
@@ -47,8 +47,16 @@ gulp.task('cod', function () {
 });
 ```
 
-## Install
+## install
 
 ```
 npm install gulp-cod --save
 ```
+
+## license
+
+MIT
+
+---
+
+[![Analytics](https://ga-beacon.appspot.com/UA-33247419-2/gulp-cod/README.md)](https://github.com/igrigorik/ga-beacon)
