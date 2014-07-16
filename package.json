@@ -1,6 +1,6 @@
 {
   "name": "gulp-cod",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "gulp plugin for cod",
   "main": "lib/index.js",
   "directories": {
